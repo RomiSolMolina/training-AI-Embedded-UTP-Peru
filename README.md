@@ -1,1 +1,1 @@
-# training-AI-Embedded-UTP-Peru
+# AI in Embedded Systems
